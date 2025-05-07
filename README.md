@@ -9,7 +9,7 @@ You need to get Arduino Nano and USB host shield.
 USB host sheild must pattern cut near 2K2.(https://ht-deko.com/arduino/pic/usbhost_shield_mini_07.jpg)
 
 # Program
-It is refferred https://github.com/jtrinklein/SConE/ and ChatGPT Generated codes.
+It refferred https://github.com/jtrinklein/SConE/ and ChatGPT Generated codes.
 
 keymap are as follows.
 
