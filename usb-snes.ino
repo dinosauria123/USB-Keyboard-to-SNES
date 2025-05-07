@@ -22,8 +22,8 @@ class KbdRptParser : public KeyboardReportParser {
         case 0x1C: buttonState |= (1 << 1); break;  // 'Y'
         case 0x28: buttonState |= (1 << 3); break;  // Enter → Start
         case 0x2A: buttonState |= (1 << 2); break;  // Backspace → Select
-        case 0x15: buttonState |= (1 << 10); break; // LShift → L
-        case 0x0F: buttonState |= (1 << 11); break; // LGUI → R
+        case 0x15: buttonState |= (1 << 10); break; // 'L' → L
+        case 0x0F: buttonState |= (1 << 11); break; // 'R' → R
         case 0x52: buttonState |= (1 << 4); break;  // ↑ Up
         case 0x51: buttonState |= (1 << 5); break;  // ↓ Down
         case 0x50: buttonState |= (1 << 6); break;  // ← Left
