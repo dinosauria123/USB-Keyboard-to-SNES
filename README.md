@@ -21,8 +21,8 @@ keymap are as follows.
 |Y | 'Y'|
 |Enter | Start|
 |Backspace | Select|
-|LShift | L|
-|LGUI | R|
+|L | L|
+|R | R|
 |↑| Up|
 |↓ |Down|
 |←| Left|
