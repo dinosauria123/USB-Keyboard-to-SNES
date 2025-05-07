@@ -13,7 +13,7 @@ It is refferd https://github.com/jtrinklein/SConE/ and ChatGPT Generated codes.
 
 keymap are as follows.
 
-|SNES Controller | USB Keyboard |
+| USB Keyboard | SNES Controller |
 | ---- | ---- |
 | A | 'A' |
 |B | 'B'|
